@@ -2,7 +2,7 @@ from wit import Wit
 import logging
 
 #Hakktathon app's token
-WIT_TOKEN = 'DWWL45QV2WPIT4AOPX6VVXWNEFGGFDDI'
+WIT_TOKEN = ''
 
 #initialise the wit client
 def init_wit():
